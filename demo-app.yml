@@ -38,6 +38,5 @@ spec:
     protocol: TCP
   selector:
     app: demo-app
-  type: LoadBalancer
+  type: NodePort
 
-# trigger commit 2
