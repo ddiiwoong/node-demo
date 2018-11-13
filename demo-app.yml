@@ -40,4 +40,4 @@ spec:
     app: demo-app
   type: LoadBalancer
 
-# trigger commit test demo1
+# trigger commit test dev
