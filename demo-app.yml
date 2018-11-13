@@ -40,4 +40,4 @@ spec:
     app: demo-app
   type: LoadBalancer
 
-# trigger commit test IBM 
+# trigger commit test demo    
