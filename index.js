@@ -8,8 +8,8 @@ var app = express();
 //});
 
 app.get("/", function(req, res, next) {
-  var msg = 'Hello World v1.7.2';
-  var target = 'green'
+  var msg = 'Hello World v1.8';
+  var target = 'blue'
   res.send('<body style="background:' + target + '; color: white; font-size:100px;">' + msg + '</body>');
 });
 
